@@ -17,6 +17,24 @@ h1#principal {
 }
 
 h2{
-    color:rgb(0, 201, 134) ;
+    color:#3c805e ;
+}
+
+p{
+    text-indent: 20px;
+    text-align: justify
+
+}
+
+.básico{
+    color: #3c805e;
+}
+
+.intermediário{
+    color: #807f3c;
+}
+
+.avançado{
+    color: #803c3c;
 }
     
