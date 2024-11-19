@@ -1,2 +1,2 @@
-# Curso-HTML5-CSS3
+# curso-html5-css3
  Exercicios do curso de HTML5 e CSS3
